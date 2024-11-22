@@ -1,4 +1,6 @@
-TITLE:” AIRLINE TICKET BOOKING SYSTEM USING JAVA” METHODOLOGY: The airline ticket booking system in Java uses object-oriented programming principles and consists of two classes: Seat and Flight. The Seat class models seat attributes and behaviors, while the Flight class manages an array of 42 seats. This structured approach ensures a robust, scalable, and user-friendly booking system.
+TITLE:” AIRLINE TICKET BOOKING SYSTEM USING JAVA” 
+
+METHODOLOGY: The airline ticket booking system in Java uses object-oriented programming principles and consists of two classes: Seat and Flight. The Seat class models seat attributes and behaviors, while the Flight class manages an array of 42 seats. This structured approach ensures a robust, scalable, and user-friendly booking system.
 
 SOFTWARE TOOLS: Integrated Development Environment (IDE): Eclipse IDE  Java Development Kit (JDK): JDK 8 or higher version and XML  Build Automation Tools: Apache Maven  Unit Testing Framework: JUnit CONCLUSION: The airline ticket booking system project successfully implemented a user-friendly platform, achieving high availability, efficiency, and accuracy. The system maintained an average seat availability rate of 92%, a response time of 150 milliseconds, and a booking accuracy rate of 99.5%, ensuring minimal errors.
 
